@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "mysql-plus-demo",
+  "version": "0.0.0",
+  "description": "Demo usage of the mysql-plus package for Node.js",
+  "author": "Nathan Woltman <nwoltman@outlook.com>",
+  "repository": "github:nwoltman/node-mysql-plus-demo",
+  "homepage": "https://github.com/nwoltman/node-mysql-plus-demo",
+  "bugs": "https://github.com/nwoltman/node-mysql-plus-demo/issues",
+  "dependencies": {
+    "mysql-plus": "~0.16.0"
+  }
+}

@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+# Mac files
+.DS_Store
+
+# Sublime Text
+*.sublime-*
+
+# VS Code
+.vscode
+*code-workspace
+
+# Yarn lock file
+yarn.lock
